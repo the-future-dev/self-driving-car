@@ -14,4 +14,8 @@
 https://www.hackster.io/ryanchan/how-to-use-the-l298n-motor-driver-b124c5
 
 ## [_] HC-SR04 sensors for object detection
-
+- frontal sensor
+<video width="400" height="300" controls>
+  <source src="./images/ultrasonic_driver.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
